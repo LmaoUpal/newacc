@@ -33,3 +33,4 @@ client.doLogin();
 clientArray.push(client);
 }
 console.log('Running ' + configsArray.length + ' bots.');
+
